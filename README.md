@@ -1,7 +1,7 @@
 # Sprite-Flight Planetary Puzzle
 
 ## Play the Game
-**Unity Play Link**: [Your Unity Play URL]
+**Unity Play Link**: (https://play.unity.com/en/games/056c6771-8703-498d-ba50-c1b5fa9c1370/sprite-flight-planetary-puzzle)
 
 ## Game Overview
 Welcome to Sprite Flight Planetary Puzzle! You are a ship trying to dodge planets as they bump into each other. 
@@ -23,7 +23,7 @@ Left click towards a spot to move that way. The further away, the faster you go!
 - [ ] [Any incomplete features]
 
 ### Known Bugs
-None known
+Player speed in published builds won't work how it does in game view. Aspect view changes from game view to publishing.
 
 ### Limitations
 None known
